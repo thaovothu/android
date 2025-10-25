@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "367203205637",
+    "firebase_url": "https://diary-f95f6-default-rtdb.firebaseio.com",
+    "project_id": "diary-f95f6",
+    "storage_bucket": "diary-f95f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367203205637:android:c6193264cae7bb9cf3926c",
+        "android_client_info": {
+          "package_name": "com.midterm.diary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6KV6ItyB_tjB5tVBi22a5ezS03HquDrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
